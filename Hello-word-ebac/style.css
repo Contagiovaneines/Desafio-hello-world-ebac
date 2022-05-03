@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.world {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+img {
+  width: 300px;
+  margin-top: 150px;
+}
+
+.text {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 8px 0;
+}
